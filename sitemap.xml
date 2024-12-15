@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kaif3ng.github.io/2024/12/11/2024-12-11-my-first-blog/</loc>
+    <loc>https://k4if3ng.github.io/2024/12/11/2024-12-11-my-first-blog/</loc>
     
     <lastmod>2024-12-13</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://kaif3ng.github.io/about/index.html</loc>
+    <loc>https://k4if3ng.github.io/about/index.html</loc>
     
     <lastmod>2024-12-13</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://kaif3ng.github.io/tags/index.html</loc>
+    <loc>https://k4if3ng.github.io/tags/index.html</loc>
     
     <lastmod>2024-12-12</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://kaif3ng.github.io/categories/index.html</loc>
+    <loc>https://k4if3ng.github.io/categories/index.html</loc>
     
     <lastmod>2024-12-12</lastmod>
     
@@ -39,23 +39,23 @@
   
 
   <url>
-    <loc>https://kaif3ng.github.io/</loc>
-    <lastmod>2024-12-14</lastmod>
+    <loc>https://k4if3ng.github.io/</loc>
+    <lastmod>2024-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://kaif3ng.github.io/tags/blog/</loc>
-    <lastmod>2024-12-14</lastmod>
+    <loc>https://k4if3ng.github.io/tags/blog/</loc>
+    <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kaif3ng.github.io/tags/hexo/</loc>
-    <lastmod>2024-12-14</lastmod>
+    <loc>https://k4if3ng.github.io/tags/hexo/</loc>
+    <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -63,8 +63,8 @@
 
   
   <url>
-    <loc>https://kaif3ng.github.io/categories/Blog/</loc>
-    <lastmod>2024-12-14</lastmod>
+    <loc>https://k4if3ng.github.io/categories/Blog/</loc>
+    <lastmod>2024-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
